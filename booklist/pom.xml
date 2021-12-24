@@ -21,7 +21,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!--start-class>readingList.Application</start-class-->
-        <tomcat.version>10.0.14</tomcat.version>
         <java.version>1.8</java.version>
     </properties>
 
